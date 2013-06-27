@@ -48,7 +48,7 @@ Description= Български
 15011= Обърни проверката
 15014= Провери
 10038= Меню
-10039= Провери за обновяване
+10039= Обнови
 10040= Езици
 10041= Наистина ли искате да изпратите избраните елементи в кошчето?
 10043= Някои файлове не могат да бъдат заличени. Уверете се, че файловете не се използват в момента и, че дискът не е пълен или защитен срещу запис.
@@ -204,13 +204,13 @@ Description= Български
 30020= Получаване на актуализиран езиков файл (%s)...
 
 [Context Menu]
-40001= Analyze Diskspace with Glary Utilities
-40002= Join with Glary Utilities
-40003= Split with Glary Utilities
-40004= Decrypt with Glary Utilities
-40005= Encrypt with Glary Utilities
-40006= Wipe with Glary Utilities
-40007= Find Empty Folders with Glary Utilities
+40001= Анализирай Диска с Glary Utilities
+40002= Свържи с Glary Utilities
+40003= Раздели с Glary Utilities
+40004= Разкриптирай с Glary Utilities
+40005= Криптирай с Glary Utilities
+40006= Изтрий с Glary Utilities
+40007= Намери празни папки с Glary Utilities
 
 [Registry Cleaner]
 11001= Registry Cleaner
